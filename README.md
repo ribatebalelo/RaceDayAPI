@@ -57,7 +57,8 @@ Tests run the real API in memory (EF Core InMemory provider), so no database is 
 ## CI/CD
 GitHub Actions (`.github/workflows/ci.yml`) restores, builds and runs all tests on every push.
 
-![Green build](docs/ci-green-build.png)
+![Green build](<img width="1011" height="533" alt="image" src="https://github.com/user-attachments/assets/eef76c88-522e-4420-a6a9-01dc848cd87e" />
+)
 
 ## Video walkthrough
 [Part 2 demo - unlisted YouTube video](#)
