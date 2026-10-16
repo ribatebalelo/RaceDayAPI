@@ -141,13 +141,26 @@ On every push, the workflow restores dependencies, builds the application, and r
 
 ![RaceDay project screenshot](https://github.com/user-attachments/assets/be2e4569-bd64-450b-9217-40463719385a)
 
-## Video Walkthrough
-
-[Part 2 Demo - Unlisted YouTube Video](#)
-
-<!-- Replace # with the actual unlisted YouTube video URL. -->
-
 ## References
 
 Coronel, C. and Morris, S. (2019) *Database systems: design, implementation, & management*. 13th edn. Boston, MA: Cengage Learning.
+
+Elmasri, R. and Navathe, S.B. (2016) *Fundamentals of database systems*. 7th edn. Harlow: Pearson.
+
+Fielding, R.T. (2000) *Architectural styles and the design of network-based software architectures*. PhD dissertation. University of California, Irvine. Available at: https://ics.uci.edu/~fielding/pubs/dissertation/top.htm (Accessed: 16 October 2026).
+
+Microsoft (n.d.a) *Create a web API with ASP.NET Core*. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api (Accessed: 16 October 2026).
+
+Microsoft (n.d.b) *Entity Framework Core*. Available at: https://learn.microsoft.com/en-us/ef/core/ (Accessed: 16 October 2026).
+
+Microsoft (n.d.c) *Overview of ASP.NET Core authentication*. Available at: https://learn.microsoft.com/en-us/aspnet/core/security/authentication/ (Accessed: 16 October 2026).
+
+Microsoft (n.d.d) *Unit testing in .NET*. Available at: https://learn.microsoft.com/en-us/dotnet/core/testing/ (Accessed: 16 October 2026).
+
+OWASP Foundation (n.d.) *Password Storage Cheat Sheet*. Available at: https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html (Accessed: 16 October 2026).
+
+Richardson, L. and Amundsen, M. (2013) *RESTful web APIs*. Sebastopol, CA: O'Reilly Media.
+
+Sommerville, I. (2016) *Software engineering*. 10th edn. Harlow: Pearson.
+
 
