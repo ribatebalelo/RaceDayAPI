@@ -44,7 +44,7 @@ The RaceDay ERD illustrates the relationships between organisers, events, partic
 
 *Figure 1: Entity Relationship Diagram for the RaceDay race-event management system.*
 
-> **Note:** Save your ERD image as `erd.png` inside the `docs` folder, or update the image path above to match your actual image filename.
+
 
 ## Setup and Run
 
