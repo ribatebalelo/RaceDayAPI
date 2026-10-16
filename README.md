@@ -38,8 +38,8 @@ Both roles can register, log in, and view or update their own profiles.
 The Entity Relationship Diagram (ERD) represents the proposed database structure of RaceDay, including its entities, attributes, primary keys, foreign keys, and relationships. ERDs are useful during database design because they help identify relationships between data entities and provide a blueprint for database implementation (Coronel and Morris, 2019).
 
 The RaceDay ERD illustrates the relationships between organisers, events, participants, categories, enrolments, and race results. These relationships support the consistent organisation of event information, participant registrations, and recorded results.
+<img width="424" height="429" alt="image" src="https://github.com/user-attachments/assets/1757723c-0429-4db8-ae55-404f07db59f7" />
 
-![Uploading ERD.drawio.png…]()
 
 
 *Figure 1: Entity Relationship Diagram for the RaceDay race-event management system.*
